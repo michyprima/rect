@@ -9,8 +9,6 @@
     e = e.join();
     a.lineWidth = c;
     a.strokeStyle = "rgb(" + e + ")";
-    m && (a.strokeStyle = "#FF3B30");
-    l && (a.strokeStyle = "#4CD964");
     a.fillStyle = a.strokeStyle;
 
     a.moveTo(0,0);
